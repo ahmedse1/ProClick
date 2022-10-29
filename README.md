@@ -1,5 +1,5 @@
 # ProClick
-Web App for selling media online developed with Node Express and React with mysql database
+Web App for selling media online developed with <b>Node Express</b> and React with mysql database
 
 Made in August 2022 as a university project in Master program.
 
